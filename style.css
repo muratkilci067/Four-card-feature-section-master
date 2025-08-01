@@ -39,6 +39,10 @@
       grid-template-columns: 1fr auto 1fr;
       grid-template-rows: 1fr  1fr;
       gap: 35px;
+      width: 100%;
+      max-width: 1200px;
+      padding: 0 1rem;
+      box-sizing: border-box;
     }
     .card{
       width: 100%;
